@@ -55,7 +55,7 @@ A collection of Flutter practice projects, centered around **Task Manager Pro (W
 
 ```bash
 # Clone the repo
-git clone https://github.com/ahmadsultaniswl-stack/workapp.git
+git clone https://github.com/saieahmadsultan/workapp.git
 cd workapp
 
 # Install dependencies
@@ -69,7 +69,8 @@ flutter run
 
 ## 👤 Author
 
-**Saie Ahmad**
+**Saie Ahmad Sultan**
 Flutter Mobile App Developer
 📧 ahmadsultaniswl@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/saie-ahmad)
+🐙 [GitHub](https://github.com/saieahmadsultan)
